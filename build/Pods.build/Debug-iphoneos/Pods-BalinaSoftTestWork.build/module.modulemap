@@ -1,0 +1,6 @@
+framework module Pods_BalinaSoftTestWork {
+  umbrella header "Pods-BalinaSoftTestWork-umbrella.h"
+
+  export *
+  module * { export * }
+}
